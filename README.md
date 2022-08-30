@@ -5,3 +5,5 @@ The detect file uses randomized data to show the accuracy to identify spoofed ca
 The spoofed calls are then stored  in a separate database and displayed in an android app to show the authenticity of the calls.
 The structure of android application is roughly described in the word file.
 
+!!!!!DOWNLOAD THE WORD FILE TO UNDERSTAND THE FLOW OF SOLUTION!!!!!!!!
+
